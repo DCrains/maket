@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald&display=swap');
+.App {
+  text-align: center;
+}
+
+.header{
+width: 100%;
+}
