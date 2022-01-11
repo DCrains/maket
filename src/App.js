@@ -1,19 +1,17 @@
 
 import './App.css';
-import Header from './Header/Header';
+import Header  from './Header/Header';
 import Body from './Body/Body';
+import React from 'react';
 
-function App() {
+const App = () => {
   return (
-  
-  <><div className="header">
+    <>
       <Header />
-    </div>
-    <div className="body">
-        <Body />
-      </div></>
-  
+      <Body />
+    </>
+
   )
 }
 
-export default App;
+export default App
