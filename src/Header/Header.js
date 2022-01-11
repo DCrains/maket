@@ -12,10 +12,10 @@ export default function Header(){
             <p className="leftbar2">ПН-ВС 10:00 - 20:00 </p>
              </div>
              <div className="ebuch">
-            <a  className="item">Наши услуги</a>
-            <a  className="item">Цены</a>
-            <a  className="item"> Контакты</a>
-            <a  className="item">Наши работы</a>
+            <a href="#" className="item">Наши услуги</a>
+            <a href="#" className="item">Цены</a>
+            <a href="#" className="item"> Контакты</a>
+            <a href="#" className="item">Наши работы</a>
         </div>
             </div>
     )
